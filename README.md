@@ -1,5 +1,4 @@
-# A test-driven JS assessment
-
+#
 This repo includes a set of tests that can be used to assess the skills of
 a candidate for a JavaScript position, or to improve one's own skills.
 
